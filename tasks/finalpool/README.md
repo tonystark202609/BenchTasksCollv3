@@ -1,47 +1,10 @@
 # Final pool
 
-The implemented task directories are listed below. Source folders are from their respective developer branches; the GitHub integration used for this operation does not support copying complete directory trees across branches, so the task implementations are not duplicated here.
+Evaluated task implementations gathered for the latest task additions across the developer branches. The lightweight manifest lists all tasks currently marked implemented in the Task Tracker; task folders below are copied from their respective developer sources when accessible.
 
-## Implemented
-- price-tracker (fan-dev)
-- shipment-tracker (junteng_dev)
-- expense-tracker (ruige)
-- error-tracker (xiaochen_dev)
-- task-scheduler (yuxuan-dev)
-- network-analyzer (yuxuan-dev)
-- order-processor (junteng_dev)
-- payment-processor (yuzhen-dev)
-- pdf-report-generator (jl_dev)
-- permission-manager (yuzhen-dev)
-- personalization-service (lv)
-- product-catalog (junteng_dev)
-- qr-generator (junxian_dev)
-- reminder-service (junteng_dev)
-- security-scanner (xiaochen_dev)
-- sentiment-analyzer (lv)
-- video-trimmer (haoze)
-- data-analytics (ruige)
-- voice-processor (lv)
-- crm-system (lueyang-dev)
-- coupon-manager (fan-dev)
-- social-publisher (gyy)
-- subtitle-generator (haoze)
-- email-classification-system (jl_dev)
-- template-engine (zhaochen)
-- email-campaign (lueyang-dev)
-- deployment-tool (xiaochen_dev)
-- translation-api (junxian_dev)
-- deal-manager (lueyang-dev)
-- data-validator (yuzhen-dev)
-- canvas-automation (ruige)
-- file-manager (ruige)
-- feedback-collector (lv)
-- canvas-grade-automation (jl_dev)
-- invoice-generator (yuzhen-dev)
-- image-processor (wenshuo-dev)
-- booking-system (junteng_dev)
-- blog-engine (gyy)
-- content-manager (yuxuan-dev)
-- load-balancer (zhaochen)
-- chat-bot (lv)
-- cms-builder (gyy)
+## Implemented tasks
+- price-tracker — fan-dev
+- loyalty-program — fan-dev
+- discount-calculator — fan-dev
+
+The other implemented tasks are tracked in Notion; available GitHub integration constraints prevented transfer of their source trees into this branch.
